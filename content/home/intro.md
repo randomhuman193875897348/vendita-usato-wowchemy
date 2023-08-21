@@ -20,4 +20,4 @@ weight: 10
 
 🐈 Ciao! Questo sito serve ad illustrare l'usato che Vendiamo.
 
-Contattati [CV](/about/) se ti interessa qualche articolo.
+Contattati se ti interessa qualche articolo.
