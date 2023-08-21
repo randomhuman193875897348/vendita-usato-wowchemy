@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Ciao! Questo sito serve ad illustrare l'usato che Vendiamo.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Contattati [CV](/about/) se ti interessa qualche articolo.
